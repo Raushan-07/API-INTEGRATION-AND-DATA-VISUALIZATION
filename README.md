@@ -152,7 +152,14 @@ Do not expose your API key publicly in shared repositories.
 
 
 
-<img width="976" height="724" alt="image" src="https://github.com/user-attachments/assets/590aa64b-d5dd-45c3-9f82-67a420319a7a" />
+<img width="646" height="250" alt="image" src="https://github.com/user-attachments/assets/a18bfe9b-dd57-4eee-baf0-fa25a13b651b" />
+
+
+
+<img width="975" height="712" alt="Screenshot 2025-07-19 204012" src="https://github.com/user-attachments/assets/effe6edb-5932-42f9-9162-767bfb70b6b9" />
+
+
+
 
 🤝 # Acknowledgments
 OpenWeatherMap
