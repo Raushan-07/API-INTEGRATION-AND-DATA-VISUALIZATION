@@ -129,7 +129,7 @@ weather-api-dashboard/
 ├── weather_dashboard.png      # Generated visualization (after running the script)
 ├── README.md                  # This file
 
-⚠️ Notes
+**Notes**
 Ensure your internet connection is stable while running the script.
 
 City names must be valid as per OpenWeatherMap API's recognition.
