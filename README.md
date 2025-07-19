@@ -21,6 +21,7 @@ The resulting dashboard provides a bar chart comparing current temperatures acro
 🧰**Technologies Used**
 
 
+
 Requests – for API calls
 
 Seaborn – for data visualization
@@ -30,6 +31,7 @@ Matplotlib – for creating and saving plots
 OpenWeatherMap API – to fetch real-time weather data
 
  **Project Features**
+ 
 
 
 Connects to the OpenWeatherMap API using HTTP GET requests.
@@ -48,6 +50,7 @@ Saves the visualization as a PNG image (weather_dashboard.png).
 **Learning Objectives**
 
 
+
 By working on this project, you’ll:
 
 Learn how to access and consume data from a RESTful API.
@@ -61,6 +64,8 @@ Explore Seaborn's capabilities for aesthetic plotting.
 Get familiar with real-world data wrangling and visualization tasks.
 
  **Cities Included**
+
+ 
 
  
 This script fetches temperature data for the following Indian cities:
@@ -83,6 +88,8 @@ Patna
 
 
 **Getting Started**
+
+
 
 
 1. Clone the Repository
@@ -118,6 +125,7 @@ temp = data['main']['temp']
 **Visualization**
 
 
+
 The data is visualized using a barplot from Seaborn:
 sns.barplot(x=city_names, y=temperatures_celsius, hue=city_names)
 The chart is saved as:
@@ -130,6 +138,9 @@ weather-api-dashboard/
 ├── README.md                  # This file
 
 **Notes**
+
+
+
 Ensure your internet connection is stable while running the script.
 
 City names must be valid as per OpenWeatherMap API's recognition.
@@ -137,6 +148,8 @@ City names must be valid as per OpenWeatherMap API's recognition.
 Do not expose your API key publicly in shared repositories.
 
 **Sample Output**
+
+
 
 
 <img width="976" height="724" alt="image" src="https://github.com/user-attachments/assets/590aa64b-d5dd-45c3-9f82-67a420319a7a" />
